@@ -19,6 +19,20 @@ class Program
         Console.WriteLine("The letter is " + letter);
 
 
+        Console.WriteLine();
+        Console.WriteLine("string variables");
+
+        string name;
+        name = "Bruno";
+
+        string lastName;
+        lastName = "Tassinari";
+
+        string fullName;
+        fullName = name + " " + lastName;
+
+        Console.WriteLine("My name is " + fullName);
+
 
         Console.WriteLine();
         Console.WriteLine("Press enter to exit...");
