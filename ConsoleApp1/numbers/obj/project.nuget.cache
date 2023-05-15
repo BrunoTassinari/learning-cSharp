@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L42gBTtnLMZuxKGAwlRZPKwozgGSq3dyb8iNC0U7bVEBq1xEUFKDXCUafzjVM3DlKFCEPvIBeJmT2M/PUhnVcQ==",
+  "dgSpecHash": "VLTLw6hy8/X2hL9YP7XJTiRCGsIjk97FTB00w9CXk2IRNPPLp8fuuQHPLqYtdLNIdf9Cjikuk0cXQ176pk0vYA==",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Arch\\home\\tassinari\\workspace\\csharp\\ConsoleApp1\\numbers\\numbers.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Arch\\home\\tassinari\\workspace\\csharp\\ConsoleApp1\\numbers\\Numbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

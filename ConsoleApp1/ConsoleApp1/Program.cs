@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Hello World!");
-        Console.WriteLine("Pressione qualquer tecla para sair...");
+        Console.WriteLine("Press enter to exit...");
         Console.ReadLine();
     }
 }
