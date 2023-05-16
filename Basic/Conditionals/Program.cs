@@ -7,8 +7,7 @@ class Program
         Console.WriteLine("conditionals");
         Console.WriteLine();
 
-        Console.WriteLine("conditionals");
-        
+        Console.WriteLine("if/else");
         int age = 16;
 
         if(age >= 18)
@@ -19,10 +18,6 @@ class Program
         {
             Console.WriteLine("You are not an adult");
         }
-
-
-
-
 
         Console.WriteLine();
         Console.WriteLine("Press enter to exit...");
