@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ff41da0-5597-49eb-8706-b6630d70f956" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MoviesAPI/Controllers/MovieController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MoviesAPI/Entities/Movie.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ASP.NET/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ASP.NET/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ASP.NET/v17/.futdcache.v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/asp.net.metadata.v6.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/asp.net.projects.v6.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASP.NET.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ASP.NET.sln" afterDir="false" />
+    <list default="true" id="5ff41da0-5597-49eb-8706-b6630d70f956" name="Changes" comment="init api">
+      <change afterPath="$PROJECT_DIR$/MoviesAPI/Utils/Utils.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ASP.NET/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ASP.NET/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesAPI/Controllers/MovieController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesAPI/Controllers/MovieController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesAPI/Entities/Movie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoviesAPI/Entities/Movie.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +21,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/628cf6d53b56e439a45e6821e92db9e20e23645d97c137854212ed226277834/HttpPostAttribute.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2QDsqcJFgpMoqcHa0VBFi65ldVu" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -94,11 +91,25 @@
       <option name="presentableId" value="Default" />
       <updated>1684899680857</updated>
       <workItem from="1684899683465" duration="783000" />
-      <workItem from="1684900985142" duration="546000" />
+      <workItem from="1684900985142" duration="894000" />
+      <workItem from="1684927239181" duration="3164000" />
     </task>
+    <task id="LOCAL-00001" summary="init api">
+      <created>1684901841190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684901841190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init api" />
+    <option name="LAST_COMMIT_MESSAGE" value="init api" />
   </component>
 </project>
