@@ -4,6 +4,7 @@ namespace MoviesAPI.Entities;
 
 public class Movie
 {
+    public int Id { get; set; }
     [Required(ErrorMessage = "Title is required")]
     [MaxLength(50, ErrorMessage = "Title can't be longer than 50 characters")]
     public string Title { get; set; } = "";
