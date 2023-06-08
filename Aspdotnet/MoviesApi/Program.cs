@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using MoviesAPI.Data;
+using MoviesAPI.Data.Repository;
+using MoviesApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +11,8 @@ builder.Services.AddDbContext<MovieContext>(options =>
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddTransient<IMovieRepository, MovieRepository>();
+builder.Services.AddScoped<IMovieService, MovieService>();
 
 
 // Add services to the container.

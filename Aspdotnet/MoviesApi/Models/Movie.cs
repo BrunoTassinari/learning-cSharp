@@ -36,4 +36,6 @@ public class Movie
     [MaxLength(50, ErrorMessage = "Genre can't be longer than 50 characters")]
     
     public string Genre { get; set; } = "";
+    
+    public string Image { get; set; } = "";
 }
